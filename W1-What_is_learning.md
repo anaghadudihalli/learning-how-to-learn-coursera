@@ -7,11 +7,11 @@
   + New synapses are created on dendrites (consider them as one thread of information) after you learn AND sleep.
   + Synapses are less than a micron (one millionth of a metre) in diameter, where human hair's for the same is 20 microns. Basically, they are extremely tiny.
   
-(Visit www.brainfacts.org for more information on how brains, behaviour and learning are linked together)
+(Visit [BrainFacts](www.brainfacts.org) for more information on how brains, behaviour and learning are linked together)
 
 ---
 **There are two modes of thinking:**
-  + **Focused mode**: Concentrate intently on something. Thoughts have similar patterns.
+  + **Focused mode**: Concentrate intently on something. Thoughts have similar patterns. Involves a direct approach to solving problems using rational, sequential, analytical approaches.
    + **Diffuse mode**: Relaxed thinking. Free to think different ways, out of the box, creative ideas. Gives you a big picture.
 
 You can't be in both thinking modes at the same time. Make your mind *flow between them*.
@@ -24,7 +24,7 @@ When needing ideas, **Salvador Dali** (he was one crazy guy!) would go into a re
 
 ---
 **Problem**: When you don't want to do something, you activate areas associated with pain. Your brain tries to avoid the pain by switching your attention to something else.  This results in you feeling happy temporarily. This is **procrastination**.
-But researchers found that not long after you start working on it, the neurodiscomfort disappears.
+But researchers found that not long after you start working on it, the neural discomfort disappears.
 
 **Solution:** **Pomodoro Technique**
 	1. Set a timer for 25 mins.
@@ -35,11 +35,11 @@ But researchers found that not long after you start working on it, the neurodisc
 
 ---
 ### Practice makes permanent
-It's important to practice with ideas and concepts you're learning to help enhance and strengthen the neural connection you make during the learning process.
+It's important to **practice** with ideas and concepts you're learning to help enhance and strengthen the neural connection you make during the learning process.
 
-The more abstract the topic is, the more you need to practice.
+The **more abstract** the topic is, the more you need to **practice and repeat.**
 
-Take a break after some time of intense focus and learning. Diffuse mode solidifies the concept during breaks.
+**Take a break** after some time of intense focus and learning. Diffuse mode solidifies the concept during breaks.
 
 Let the 'cement dry' as opposed to cramming all at once.
 
@@ -61,9 +61,52 @@ This technique involves repeating what you're trying to learn. Space the repetit
 
 ---
 ### Importance of sleep
-Being awake causes toxic products in brain. Sleep washes away these toxins.
+Being awake causes toxic products in brain. **Sleep washes away** these toxins.
 
-During sleep, brain erases the less important parts of memories and strengthens areas that you want to remember. It rehearses the tougher material.
+During sleep, brain erases the less important parts of memories and **strengthens** areas that you want to remember. It rehearses the tougher material.
 
 Learning just before sleeping, or sleeping after you learn is very effective in retaining the knowledge.
 Dreaming about what you learnt enhances your ability to understand.
+
+--- 
+### How Dr.Terrence Sejnowski learns
+
++ Learning **by doing**
++ If copes a boring lecture by **asking questions**. 
+	- The discussion is often more interesting.
+	- Engages active learning as opposed to passive learning.
++ Uses jogging/walking/running to use the diffuse mode.
++ Takes a little notebook along with him, writes down the ideas as they come as sometimes they evaporate.
++ **Doesn't recommend multitasking**, that is doing two things simultaneously (yes, finally someone said it!). But switching between tasks is something you can do. But when you do switch, it does take some time to get completely involved in the task. But he is a pro at it!
++ Being in a creative environment, and having other people around makes you more creative.
++ Be passionate and persistent.
++ Look at everything with different perspective.
+
+---
+### Interview with Benny Lewis - Learning Languages
+
++ Was terrible at learning languages.
++ Wrote the book [Fluent in 3 months.](https://www.fluentin3months.com/)
++ Children have an edge over adults because **they are not afraid of falling down, making mistakes.** (never realized this :O damn!)
++ Just have fun with the new language. Have fun while making mistakes. People are quite friendly.
++ Avoid self-fulfilling prophecies like 'I am too old to learn a language now.' , 'I am not a good language learner.'
++ If you fail, you are not stupid, you just aren't using the correct technique for you.
++ Have mnemonics to learn better and have an association. For eg: Table in German is called tisch. Imagine a table made of tissues.
++ [Memrise](https://www.memrise.com/), [Anki](https://apps.ankiweb.net/) are very helpful.
+
+---
+### Interview with Dr. Robert Bilder on Creativity and Problem Solving
+
++ You need to solve creative problems yourself so that it builds those connections in your brain which helps in solving other problems.
++ Be curious about your shortcomings and the difficulty. 
++ There has to be some discomfort for any change to occur.
++ Disagreeableness increases creativity.
++ Exercise increases creativity.
++ Sleep helps creativity enormously.
+
+---
+### Interview with writing coach Daphne Gray-Grant
+
++ She frequently faced writer's block even during her professional years.
++ Mind-mapping involves diffuse mind.
++ While writing, don't edit at the same time. Let the thoughts flow.
