@@ -1,12 +1,12 @@
 # Week 2 : Chunking
 ---
-**What are chunks?**
+<ins>**What are chunks?**</ins>
 **Chunks** are compact packages of information  that mind can easily access. 
 *Example*: You know passages of songs. Later you connect those chunks to sing the whole song.
 
 You form chunks by listening, watching, **observing patterns** of what you are trying to learn. Forming chunks vary by the activity you are learning.
 
-**Basic steps to form a chunk:** 
+<ins>**Basic steps to form a chunk:** </ins>
 1. **Focus** your undivided attention on the information you want to chunk.
 2. **Understand the basic idea** you're trying to chunk.
 3. **Gain context** so you can see not just how but also when to use this chunk.
@@ -18,7 +18,7 @@ You form chunks by listening, watching, **observing patterns** of what you are t
 + **Test yourself** frequently. You learn something when you can do it yourself.
 + Take a "picture walk" through the material to **gain big picture** context before diving into the details.
 ---
-**Two ways to learning** that are both vital in gaining mastery of a material:
+<ins>**Two ways to learning**</ins> that are both vital in gaining mastery of a material:
 + **Bottom-up learning:** practice and repetition helps build and strengthen chunks.
 + **Top down learning:** Allows you to see what you're learning and where it fits in.
 
@@ -37,3 +37,25 @@ Context is where both bottom-up and top-down learning meet.
 + **Making mistakes** correct your thinking.
 + **Recalling in an environment other than your place of study** can also help in strengthen the grasp on the material.
 Why? Because when you are learning something new you can often take subliminal cues from the room and the space around you at the time you were learning the material. This can throw you off in a test room which is a different location. By recalling and thinking about the material when you are in various physical environments, **you become independent** of the cues **from any one given location.** 
+---
+### What Motivates You?
+
++ Learning becomes easier when you are interested in it.
++ There are three important neuromodulators:
+	1. **Acetylcholine**
+	2. **Serotonin**
+	3. **Dopamine** 
+
+<ins>**Acetylcholine**: </ins>
++ Affects ***focused learning*** and ***attention***. Leads to new long term memory.
+
+<ins>**Serotonin**:</ins>
++ Affects your ***social life***. In monkey troops, alpha male has the highest level of serotonin activity, and the lowest ranking male has the lowest levels.
++  &#8595; Serotonin level  &#8593; Risk taking behavior
++ Emotions affect learning. It is intertwined with perception and attention and interact with learning and memory.
+
+<ins>**Dopamine**:</ins>
++ Our motivation is controlled by a chemical substance called dopamine.
++  It is released when we receive an unexpected ***reward***.
++ It also predicts future rewards and not just the immediate reward.
++ ***Loss of dopamine*** neurons leads to a ***lack of motivation*** and something called Anhedonia, which is loss of interest in things that once gave you pleasure.
