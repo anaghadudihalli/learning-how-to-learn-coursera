@@ -59,3 +59,38 @@ Why? Because when you are learning something new you can often take subliminal c
 +  It is released when we receive an unexpected ***reward***.
 + It also predicts future rewards and not just the immediate reward.
 + ***Loss of dopamine*** neurons leads to a ***lack of motivation*** and something called Anhedonia, which is loss of interest in things that once gave you pleasure.
+
+---
+### The Value of a Library of Chunks
++ Chunks can help you understand new concepts. When you grasp one chunk, that **chunk can be related** in surprising ways to similar chunks. Not only in that field but also in different fields.
++ It's important to have variety/**creativity** in learning. It helps build the network between the chunks and increases problem solving.
+---
+### Overlearning, Choking, Einstellung, and Interleaving
++ Overlearning is good sometimes as it creates automaticity that can be helpful in situations like serving a tennis ball. But overlearning in a *single session* can a waste of valuable learning time.
++ Overlearning can give an **illusion of mastery** when you mastered only the easy concepts.
++ **Einstellung**: A known pattern may block from getting new ideas. You initial idea of how things need to be done is misleading. You need to unlearn your old erroneous older ideas.
++ **Mix** up your learning.
++ Repetition and practice strengthen the neural connections, **interleaving** **builds flexibility and creativity.**
++ Although practice and repetition are important in helping build solid neural patterns to draw on, it’s interleaving that starts building flexibility and creativity. It’s where you leave the world of practice and repetition and begin thinking more independently.
+---
+### Interview with Dr. Norman Fortenberry - Executive director of the American Society of Engineering Education 
+
+<ins>**Learning at MIT**</ins>
+
++ Be part of a team, not alone.
++ Don't jump directly into hard stuff. Take it step by step.
++ Take a break, turn your brain off at times.
++ Use **multi-mode learning inputs** - visual, auditory, teaching, discussing, etc
+
+---
+
+### Interview with Scott Young, a "Marco Polo" of Learning
+
++ Clubbed and learnt 4 year MIT course in one year.
++ Believes in diving into hard problems and getting that strain to learn.
++ Tests himself frequently.
++ **Teach yourself step by step**. When you realize you are getting vague, you know what to revise. Feynman's technique.
++ Don't fool yourself into thinking that you're learning.
++ Create vivid examples. Uses **analogies and metaphors.**
++ Always **have a plan**. Create a project out of it. It keeps you motivated.
++ Intensity/Focused time/**Quality > Quantity**
