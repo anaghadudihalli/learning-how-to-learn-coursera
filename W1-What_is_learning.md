@@ -110,3 +110,5 @@ Dreaming about what you learnt enhances your ability to understand.
 + She frequently faced writer's block even during her professional years.
 + Mind-mapping involves diffuse mind.
 + While writing, don't edit at the same time. Let the thoughts flow.
+
+Also, refer to https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/
