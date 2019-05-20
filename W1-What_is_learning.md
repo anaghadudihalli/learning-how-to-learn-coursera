@@ -7,7 +7,7 @@
   + New synapses are created on dendrites (consider them as one thread of information) after you learn AND sleep.
   + Synapses are less than a micron (one millionth of a metre) in diameter, where human hair's for the same is 20 microns. Basically, they are extremely tiny.
   
-(Visit [BrainFacts](www.brainfacts.org) for more information on how brains, behaviour and learning are linked together)
+(Visit [BrainFacts](https://www.brainfacts.org/) for more information on how brains, behaviour and learning are linked together)
 
 ---
 **There are two modes of thinking:**
