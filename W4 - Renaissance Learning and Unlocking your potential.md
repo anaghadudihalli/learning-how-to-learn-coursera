@@ -1,4 +1,4 @@
-﻿## Week 4: Renaissance Learning and Unlocking your potential
+## Week 4: Renaissance Learning and Unlocking your potential
 ---
 
 When you go through a homework or test questions and don’t go back to check your work, you’re acting like a person who’s refusing to use parts of his brain.
@@ -41,3 +41,24 @@ When you go through a homework or test questions and don’t go back to check yo
 -   Being Stressed before a test is normal. The body puts ups out chemicals when it’s under stress. How you interpret the body reaction to those chemicals makes all the difference.  
     -   **Shift your thinking** from "I am afraid of this test" to “I am excited to do my best”.
 + **Relax your brain on the last day before a test.** Have a quick final look at the materials. Feeling guilty the last day is a natural reaction if you have prepared well. 
+---
+### Interview with Dr. Richard Felder and Dr. Rebecca Brent
+1. You really learn only when you work out the problems yourself and teach the concept yourself.
+2. Group studies really enforce true learning.
+3. Everyone faces imposter syndrome and that's ok.
+4. Schedule regular small appointments with yourself to get over procrastination.
+
+---
+### Interview with John Maguire : Importance of Putting Objects in your writing
+
+1.  Write everything down. Your idea, what confuses you etc.
+2. Use short sentences.
+3. Ask yourself - what am I trying to say? Did I say it clearly? What must I not leave out?
+4. Don't edit when you are writing.
+---
+### Interview with William Craig Rice on learning in the humanities
+
+1. When reading difficult material, just read and when you notice something, mark it.
+2. good approaches to learning, often involve transfer from one field, for example, mathematics to another field, like music or language.
+3. Write summaries.
+4. Likes group studies but too much of it takes away your independent thinking.
